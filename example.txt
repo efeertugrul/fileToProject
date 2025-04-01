@@ -1,0 +1,23 @@
+example/
+│── LICENSE
+│── README.md
+│── assets/
+│── cmd/
+│   │── some-example/
+│   │   │── main.go
+│── docs/
+│── internal/
+│   │── some/
+│   │   │── first.go
+│   │   │── second.go
+│   │   │── third.go
+│   │   │── fourth.go
+│   │   │── fifth.go
+│   │   │── sixth.go
+│   │   │── seventh.go
+│── pkg/
+│   │── emulator/
+│   │   │── first.go
+│   │   │── second.go
+│   │   │── fifth.go
+│── testdata/
